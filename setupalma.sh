@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script par Renaud De Pessemier pour AlmaLinux
+# Basic initialisation install script for AlmaLinux
 clear
 echo "*** Run This script with Sudo privileges***"
 echo
