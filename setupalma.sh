@@ -120,6 +120,8 @@ if [ $yesorno = y ];then
 elif [ $yesorno = n ]; then
 echo ""
 fi
+
+# Reload bashrc file
 source $baserc
 
 
